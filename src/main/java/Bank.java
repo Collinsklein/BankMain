@@ -1,7 +1,12 @@
 public class Bank {
 
-
+                    // Pseudo steps
         // Instance variables for deposit and balance
+//    // Constructor to initialize deposit and balance
+    // Getter method for deposit and balance
+    // Setter method for deposit and balance
+    //Print account details
+
         private double deposit;
         private double balance;
 
